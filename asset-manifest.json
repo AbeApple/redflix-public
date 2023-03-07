@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/redflix2/static/css/main.b3a820b0.css",
-    "main.js": "/redflix2/static/js/main.ebcff006.js",
-    "static/js/787.884d5cc5.chunk.js": "/redflix2/static/js/787.884d5cc5.chunk.js",
-    "static/media/playIcon.png": "/redflix2/static/media/playIcon.e238d077a3396991a0c5.png",
-    "static/media/settingsIconSW.png": "/redflix2/static/media/settingsIconSW.b499a5d49e22273bfd1a.png",
-    "static/media/sendIconWS.png": "/redflix2/static/media/sendIconWS.5a3df572f5c864b59991.png",
-    "static/media/chatIconTransparentSmall.png": "/redflix2/static/media/chatIconTransparentSmall.832f7334b35929ae1fcd.png",
-    "static/media/rIcon80.png": "/redflix2/static/media/rIcon80.fbc2d6e84d92b7ea0a7f.png",
-    "static/media/redditIconSW.png": "/redflix2/static/media/redditIconSW.8a3e88bb67187166a950.png",
-    "static/media/shuffleIcon.png": "/redflix2/static/media/shuffleIcon.947cd6c985050e6d0926.png",
-    "static/media/likeIcon.png": "/redflix2/static/media/likeIcon.2844dd2af022af22ec74.png",
-    "static/media/starIconW.png": "/redflix2/static/media/starIconW.750f708caf3fbba55ab8.png",
-    "static/media/likeIconFilledIn2.png": "/redflix2/static/media/likeIconFilledIn2.17792005cb6494790e13.png",
-    "index.html": "/redflix2/index.html",
-    "main.b3a820b0.css.map": "/redflix2/static/css/main.b3a820b0.css.map",
-    "main.ebcff006.js.map": "/redflix2/static/js/main.ebcff006.js.map",
-    "787.884d5cc5.chunk.js.map": "/redflix2/static/js/787.884d5cc5.chunk.js.map"
+    "main.css": "/redflix-public/static/css/main.b3a820b0.css",
+    "main.js": "/redflix-public/static/js/main.16672a5b.js",
+    "static/js/787.884d5cc5.chunk.js": "/redflix-public/static/js/787.884d5cc5.chunk.js",
+    "static/media/playIcon.png": "/redflix-public/static/media/playIcon.e238d077a3396991a0c5.png",
+    "static/media/settingsIconSW.png": "/redflix-public/static/media/settingsIconSW.b499a5d49e22273bfd1a.png",
+    "static/media/sendIconWS.png": "/redflix-public/static/media/sendIconWS.5a3df572f5c864b59991.png",
+    "static/media/chatIconTransparentSmall.png": "/redflix-public/static/media/chatIconTransparentSmall.832f7334b35929ae1fcd.png",
+    "static/media/rIcon80.png": "/redflix-public/static/media/rIcon80.fbc2d6e84d92b7ea0a7f.png",
+    "static/media/redditIconSW.png": "/redflix-public/static/media/redditIconSW.8a3e88bb67187166a950.png",
+    "static/media/shuffleIcon.png": "/redflix-public/static/media/shuffleIcon.947cd6c985050e6d0926.png",
+    "static/media/likeIcon.png": "/redflix-public/static/media/likeIcon.2844dd2af022af22ec74.png",
+    "static/media/starIconW.png": "/redflix-public/static/media/starIconW.750f708caf3fbba55ab8.png",
+    "static/media/likeIconFilledIn2.png": "/redflix-public/static/media/likeIconFilledIn2.17792005cb6494790e13.png",
+    "index.html": "/redflix-public/index.html",
+    "main.b3a820b0.css.map": "/redflix-public/static/css/main.b3a820b0.css.map",
+    "main.16672a5b.js.map": "/redflix-public/static/js/main.16672a5b.js.map",
+    "787.884d5cc5.chunk.js.map": "/redflix-public/static/js/787.884d5cc5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3a820b0.css",
-    "static/js/main.ebcff006.js"
+    "static/js/main.16672a5b.js"
   ]
 }
