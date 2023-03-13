@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/redflix-public/static/css/main.9a67714e.css",
-    "main.js": "/redflix-public/static/js/main.0ea48981.js",
+    "main.js": "/redflix-public/static/js/main.c1056ea8.js",
     "static/js/787.884d5cc5.chunk.js": "/redflix-public/static/js/787.884d5cc5.chunk.js",
     "static/media/playIcon.png": "/redflix-public/static/media/playIcon.e238d077a3396991a0c5.png",
     "static/media/settingsIconSW.png": "/redflix-public/static/media/settingsIconSW.b499a5d49e22273bfd1a.png",
@@ -16,11 +16,11 @@
     "static/media/likeIconFilledIn2.png": "/redflix-public/static/media/likeIconFilledIn2.17792005cb6494790e13.png",
     "index.html": "/redflix-public/index.html",
     "main.9a67714e.css.map": "/redflix-public/static/css/main.9a67714e.css.map",
-    "main.0ea48981.js.map": "/redflix-public/static/js/main.0ea48981.js.map",
+    "main.c1056ea8.js.map": "/redflix-public/static/js/main.c1056ea8.js.map",
     "787.884d5cc5.chunk.js.map": "/redflix-public/static/js/787.884d5cc5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a67714e.css",
-    "static/js/main.0ea48981.js"
+    "static/js/main.c1056ea8.js"
   ]
 }
